@@ -1,4 +1,4 @@
-# oqıw orayı AI járdemshisi botı
+# Oqıw orayı AI járdemshisi botı
 
 "Oqıw orayı" ushın aqıllı járdemshi wazıypasın atqaratuǵın jasalma intellektke ie telegram bot. Botta oqıw orayınıń kursları, grafikleri, bahaları hám basqa da xızmetleri haqqındaǵı maǵlıwmatlar qaraqalpaq tilinde beriledi.
 
