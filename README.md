@@ -16,11 +16,14 @@
 Context saqlanadi ha'm bimalel juwap bere aladi (latest 5 Q&A pairs)
 
 Q1: Frontend kursı bar ma?
+
 Q2: Onıń bahası qansha?
 
 
 Q3: Sabaqları qaysı kúni boladı?
+
 Q4: Men Python úyrenbekshimen. Oqıtıwshısınıń atı kim hám kurs qansha dawam etedi?
 
 Q5:  Grafik dizayn kursı bar ma?
+
 Q6:  Nókiste hawa-rayı qanday boladı?
