@@ -1,0 +1,11 @@
+# requirements.txt (YAKUNIY, SODDA VA ISHCHI VERSIYA)
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-chroma
+chromadb
+python-dotenv
+python-telegram-bot
+rank_bm25
+sentence-transformers
+llama-index-core

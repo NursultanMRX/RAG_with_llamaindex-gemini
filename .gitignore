@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# test.md examples of QA
+test.md
+
+
+
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# VS Code
+.vscode/
+*.code-workspace
+
+
+
+# Project-specific ignores
+# Environment variables (CRITICAL - contains API keys)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+local/
+dev/
+development/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache directories
+.cache/
+cache/
+
